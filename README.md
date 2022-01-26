@@ -20,5 +20,5 @@ Inquiries regarding the scripts provided below are cordially welcome. In case yo
 
 If you use our algorihtms, please cite [[1]](https://ieeexplore.ieee.org/document/7934025).
 
-|[[1]](Markopoulos, P.P., Kundu, S., Chamadia, S. and Pados, D.A., 2017. Efficient L1-norm principal-component analysis via bit flipping. IEEE Transactions on Signal Processing, 65(16), pp.4252-4264.)|
+|[[1]](Markopoulos, P.P., Kundu, S., Chamadia, S. and Pados, D.A., 2017. Efficient L1-norm principal-component analysis via bit flipping. IEEE Transactions on Signal Processing, 65(16), pp.4252-4264.|
 |-----|--------|
