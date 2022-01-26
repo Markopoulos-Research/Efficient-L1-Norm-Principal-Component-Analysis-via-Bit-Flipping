@@ -5,7 +5,7 @@ Formally, the provided script solves
 
 ![equation](https://latex.codecogs.com/svg.image?\mathbf{Q}_{L1}&space;=&space;\underset{\mathbf{Q}&space;\in&space;\mathbb{R}^{D\times&space;K},&space;\mathbf{Q}^T\mathbf{Q}&space;=&space;\mathbf{I}_{K}&space;}{\rm&space;argmax}&space;||\mathbf{Q}^T&space;\mathbf{X}||_{1,1})
 
-suboptimally with complexity O[NDmin{ND} + N^2 K^2 (K^2+d)]. 
+suboptimally with complexity O[NDmin{ND} + N^2 K^2 (K^2+d)].
 
 ---
 * IEEEXplore article: https://ieeexplore.ieee.org/document/7934025
@@ -18,7 +18,7 @@ Inquiries regarding the scripts provided below are cordially welcome. In case yo
 ---
 **Citing**
 
-If you use our algorihtms, please cite [[1]](https://ieeexplore.ieee.org/document/7934025).
+If you use our algorihthms, please cite [[1]](https://ieeexplore.ieee.org/document/7934025).
 
 |[[1]](https://ieeexplore.ieee.org/document/7934025)|Markopoulos, P.P., Kundu, S., Chamadia, S. and Pados, D.A., 2017. Efficient L1-norm principal-component analysis via bit flipping. IEEE Transactions on Signal Processing, 65(16), pp.4252-4264.|
 |-----|--------|
