@@ -5,7 +5,7 @@ Formally, the provided script solves
 
 ![equation](https://latex.codecogs.com/svg.image?\mathbf{Q}_{L1}&space;=&space;\underset{\mathbf{Q}&space;\in&space;\mathbb{R}^{D\times&space;K},&space;\mathbf{Q}^T\mathbf{Q}&space;=&space;\mathbf{I}_{K}&space;}{\rm&space;argmax}&space;||\mathbf{Q}^T&space;\mathbf{X}||_{1,1})
 
-suboptimally with complexity ![equation](https://latex.codecogs.com/svg.image?\mathcal{O}[ND{\rm&space;min}\{ND\}&plus;N^2K^2(K^2&plus;d)]).
+suboptimally with complexity ![equation](https://latex.codecogs.com/svg.image?\mathcal{O}[ND{\rm&space;min}(ND)&plus;N^2K^2(K^2&plus;d)]).
 
 ---
 * IEEEXplore article: https://ieeexplore.ieee.org/document/7934025
